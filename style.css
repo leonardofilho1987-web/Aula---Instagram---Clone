@@ -1,0 +1,60 @@
+#conteudo {
+
+    width: 1200px;
+    height: 1200px;
+    margin: 0 auto;
+    background-color: aquamarine;
+
+}
+
+
+#topo {
+
+    width: 1200px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgb(32, 34, 33);
+}
+
+
+#ladoesquerdo {
+
+    width: 300px;
+    height: 900px;
+    display: flex;
+    background-color: rgb(50, 152, 104);
+
+    img {
+
+        height:160px;
+        width: 180px;
+        border-radius: 10%;
+
+    }
+
+
+}
+
+.destaques {
+
+    margin-top: 35px;
+    margin-left:25px;
+   
+}
+
+.textosdestaques{
+
+ 
+}
+
+
+#ladodireito {
+
+    width: 900px;
+    height: 900px;
+    display: flex;
+    margin-top: -900px;
+    margin-left: 300px;
+    background-color: rgb(89, 119, 14);
+
+}
