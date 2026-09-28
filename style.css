@@ -92,14 +92,7 @@
     overflow: scroll;
     overflow-x: hidden;
     
-::-webkit-scrollbar{
 
-background-color: rgb(245, 244, 242);
-width: 5px;
-border-top-right-radius: 5px;
-border-bottom-right-radius: 5px;
-
-}
 
     img {
 
